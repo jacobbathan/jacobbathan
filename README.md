@@ -1,5 +1,5 @@
 hey.
 
 - learning: things i shouldnt
-- likes: python, node/deno/typescript, go, rust, c/c++
+- likes: python, node/deno/typescript, go, rust
 - dislikes: ferris wheels
