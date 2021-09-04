@@ -1,5 +1,8 @@
 hey.
+
+
 Learning:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" height="48"/>
 
 Languages I like:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
